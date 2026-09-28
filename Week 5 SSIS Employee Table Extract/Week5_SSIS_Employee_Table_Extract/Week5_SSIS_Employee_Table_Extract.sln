@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Week5_SSIS_Employee_Table_Extract", "Week5_SSIS_Employee_Table_Extract\Week5_SSIS_Employee_Table_Extract.dtproj", "{6BA2B350-483C-F2B6-BAFD-E74CB765727D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA2B350-483C-F2B6-BAFD-E74CB765727D}.Development|Default.ActiveCfg = Development
+		{6BA2B350-483C-F2B6-BAFD-E74CB765727D}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D67C9AE-E1BF-41F9-93DA-7E103DF5FE70}
+	EndGlobalSection
+EndGlobal
